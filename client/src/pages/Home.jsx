@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import Vedio from "../components/vedio";
+import Vedio from "../components/Vedio"
 import Gettouch from "../components/Gettouch";
 import {motion,} from "framer-motion"
 import { useInView } from "framer-motion";
