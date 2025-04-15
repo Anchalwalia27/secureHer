@@ -1,7 +1,7 @@
 import React from "react";
 import v3 from "../assets/v3.mp4"
 
-export default function Vedio(){
+export default function Video(){
     return(
        <div className="  relative  rounded-2xl overflow-hidden ">
                {/* Video */}
