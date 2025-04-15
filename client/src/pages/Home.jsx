@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import Vedio from "../components/Vedio"
+// import Vedio from "../components/Vedio"
 import Gettouch from "../components/Gettouch";
 import {motion,} from "framer-motion"
 import { useInView } from "framer-motion";
@@ -20,7 +20,7 @@ export default function Home(){
         <div className="flex justify-center flex-col gap-10 items-center w-full bg-fuchsia-100/20 ">
             {/* vedio */}
            <div className="flex justify-center items-center mt-10  ">
-            <Vedio className="md:hidden"/>
+            {/* <Vedio className="md:hidden"/> */}
             
            </div>
            {/* contnt */}
